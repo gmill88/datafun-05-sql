@@ -165,3 +165,62 @@
 2024-02-08 10:56:06,435 - DEBUG - ending major function
 2024-02-08 10:56:06,435 - INFO - all sql operations complete
 2024-02-08 10:56:06,435 - DEBUG - ending major function
+2024-02-08 11:20:51,347 - INFO - Program started
+2024-02-08 11:20:51,349 - INFO - Program ended
+2024-02-08 11:20:51,350 - DEBUG - Starting Major Function
+2024-02-08 11:20:51,350 - DEBUG - Starting Major Function
+2024-02-08 11:20:51,362 - DEBUG - ending major function
+2024-02-08 11:20:51,362 - DEBUG - Starting Major Function
+2024-02-08 11:20:51,398 - DEBUG - ending major function
+2024-02-08 11:20:51,399 - DEBUG - Starting Major Function
+2024-02-08 11:20:51,448 - DEBUG - ending major function
+2024-02-08 11:20:51,449 - DEBUG - Starting Major Function
+2024-02-08 11:20:51,456 - DEBUG - ending major function
+2024-02-08 11:20:51,456 - DEBUG - Starting Major Function
+2024-02-08 11:20:51,488 - DEBUG - ending major function
+2024-02-08 11:20:51,488 - DEBUG - Starting Major Function
+2024-02-08 11:22:53,243 - INFO - Program started
+2024-02-08 11:22:53,246 - INFO - Program ended
+2024-02-08 11:22:53,247 - DEBUG - Starting Major Function
+2024-02-08 11:22:53,247 - DEBUG - Starting Major Function
+2024-02-08 11:22:53,256 - DEBUG - ending major function
+2024-02-08 11:22:53,256 - DEBUG - Starting Major Function
+2024-02-08 11:22:53,285 - DEBUG - ending major function
+2024-02-08 11:22:53,285 - DEBUG - Starting Major Function
+2024-02-08 11:22:53,351 - DEBUG - ending major function
+2024-02-08 11:22:53,351 - DEBUG - Starting Major Function
+2024-02-08 11:22:53,358 - DEBUG - ending major function
+2024-02-08 11:22:53,359 - DEBUG - Starting Major Function
+2024-02-08 11:22:53,380 - DEBUG - ending major function
+2024-02-08 11:22:53,380 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,608 - INFO - Program started
+2024-02-08 11:23:06,609 - INFO - Program ended
+2024-02-08 11:23:06,609 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,609 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,609 - DEBUG - ending major function
+2024-02-08 11:23:06,609 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,616 - DEBUG - ending major function
+2024-02-08 11:23:06,616 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,643 - DEBUG - ending major function
+2024-02-08 11:23:06,643 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,648 - DEBUG - ending major function
+2024-02-08 11:23:06,648 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,663 - DEBUG - ending major function
+2024-02-08 11:23:06,663 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,667 - DEBUG - ending major function
+2024-02-08 11:23:06,667 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,670 - DEBUG - ending major function
+2024-02-08 11:23:06,670 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,673 - DEBUG - ending major function
+2024-02-08 11:23:06,673 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,675 - DEBUG - ending major function
+2024-02-08 11:23:06,675 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,676 - DEBUG - ending major function
+2024-02-08 11:23:06,676 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,678 - DEBUG - ending major function
+2024-02-08 11:23:06,678 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,679 - DEBUG - ending major function
+2024-02-08 11:23:06,680 - DEBUG - Starting Major Function
+2024-02-08 11:23:06,681 - DEBUG - ending major function
+2024-02-08 11:23:06,681 - INFO - all sql operations complete
+2024-02-08 11:23:06,681 - DEBUG - ending major function
