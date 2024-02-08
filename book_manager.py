@@ -1,6 +1,11 @@
 import sqlite3
 import pandas as pd
 import pathlib
+import logging
+
+logging.basicConfig(filename='log.txt', level=logging.DEBUG, filemode='a', format='%(asctime)s - %(levelname)s - %(message)s')
+
+logging.info("Program started")
 
 # Define the database file in the current root project directory
 db_file = pathlib.Path("project.db")
